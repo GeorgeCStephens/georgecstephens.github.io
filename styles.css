@@ -1,0 +1,90 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 24, 24);
+    padding: 5px;
+    font-family: monospace;
+    color: beige;
+}
+
+.NameHeading {
+    display: flex;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    color: beige;
+    font-size: 35px;
+    font-weight: 5px;
+}
+
+H5 {
+    margin: 0px; 
+    padding-top: 4px;
+    font-size: 14px;
+    font-style: oblique;
+    padding-bottom: 8px;
+}
+
+H4 {
+    margin: 0px; 
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+p {
+    margin: 0px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    padding-top: 3px;
+}
+
+H6 {
+    margin: 0px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-size: 14px;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.Oneliner {
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 30%;
+    color: beige;
+    font-size: 20px;
+}
+
+.PageHeading{
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+
+.subheading{
+    font-size: 20px;
+    padding-top: 20px;
+    color: bisque;
+}
+
+.Experiance{
+    display: inline;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.Projects{
+    display: inline;
+    position: absolute;
+    top: 85%;
+    left: 30%;
+}
