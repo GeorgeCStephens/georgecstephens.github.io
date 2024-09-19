@@ -11,9 +11,23 @@ const CONFIG = {
    */
   base: '/',
   projects: {
+    external: {
+      header: 'Professional Experiance',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Aerospace & Defence Automation',
+          description:
+            'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
+          imageUrl:
+            'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
+          //link: 'NDA Signed.',
+        }
+      ],
+    },
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'Personal Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -27,20 +41,6 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
-    },
-    external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'Aerospace & Defence Automation',
-          description:
-            'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
-          imageUrl:
-            'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
-          //link: 'NDA Signed.',
-        }
-      ],
     },
   },
   seo: {
