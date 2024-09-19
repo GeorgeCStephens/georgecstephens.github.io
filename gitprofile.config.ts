@@ -44,8 +44,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of George Stephens',
-    description: '',
+    title: 'Portfolio of George Stephens, Test Automation Engineer',
+    description: 'The official portfolio site of George Stephens, Test Automation Engineer. George is an apprenticeship advocate and passionate about Quality Engineering. George loves software and is obsessed with improving the quality and efficiency of the software development lifecycle',
     imageURL: '',
   },
   social: {
