@@ -50,7 +50,6 @@ const CONFIG = {
   },
   social: {
     linkedin: 'george-stephens-065683206',
-    youtube: 'IggySoftware', // example: 'pewdiepie'
     email: 'george@georgestephens.co.uk',
   },
   resume: {
