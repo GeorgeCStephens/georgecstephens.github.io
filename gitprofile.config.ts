@@ -51,12 +51,11 @@ const CONFIG = {
   social: {
     linkedin: 'george-stephens-065683206',
     youtube: 'IggySoftware', // example: 'pewdiepie'
-    website: 'https://www.georgestephens.co.uk',
     email: 'dga2601@gmail.com',
   },
   resume: {
     fileUrl:
-      // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
