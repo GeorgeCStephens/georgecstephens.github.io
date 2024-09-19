@@ -19,7 +19,7 @@ const CONFIG = {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
@@ -32,14 +32,14 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        /* {
-          title: 'Project Name',
+        {
+          title: 'Aerospace & Defence Automation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        } */
+            'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
+          link: 'NDA Signed.',
+        }
       ],
     },
   },
@@ -51,11 +51,11 @@ const CONFIG = {
   social: {
     linkedin: 'george-stephens-065683206',
     youtube: 'IggySoftware', // example: 'pewdiepie'
-    email: 'dga2601@gmail.com',
+    email: 'george@georgestephens.co.uk',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -94,13 +94,25 @@ const CONFIG = {
     {
       name: 'Registered Scrum Master',
       body: 'Scrum Inc',
-      year: 'April 2024',
-      link: 'https://www.scruminc.com/',
+      year: '2024',
+      link: 'https://agileeducation.org/scrum-master/',
+    },
+    {
+      name: 'Generative AI Foundations',
+      body: 'IBM',
+      year: '2024',
+      link: 'https://www.ibm.com/training/collection/generative-ai-with-ibm-687',
+    },
+    {
+      name: 'watsonx Essentials',
+      body: 'IBM',
+      year: '2024',
+      link: 'https://www.ibm.com/training/badge/watson-ai-essentials.1',
     },
   ],
   educations: [
     {
-      institution: 'Institure for Apprenticeships & Technical Education',
+      institution: 'Institute for Apprenticeships & Technical Education',
       degree: 'BCS Level 4 Software Testing Qualification',
       from: '2021',
       to: '2023',
