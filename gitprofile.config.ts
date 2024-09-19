@@ -38,7 +38,7 @@ const CONFIG = {
             'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
-          link: 'NDA Signed.',
+          //link: 'NDA Signed.',
         }
       ],
     },
@@ -91,6 +91,12 @@ const CONFIG = {
     },
   ],
   certifications: [
+    {
+      name: 'Software Test Apprentice Of The Year Highly Commended Award',
+      body: 'British Computer Society',
+      year: '2024',
+      //link: '',
+    },
     {
       name: 'Registered Scrum Master',
       body: 'Scrum Inc',
@@ -149,10 +155,10 @@ const CONFIG = {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   }, */
+  googleAnalytics: {
+    id: 'G-Q1FD9Q6D8V', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+  },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
     id: '',
