@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     external: {
-      header: 'Professional Experiance',
+      header: 'Professional Experience',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -164,11 +164,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'business',
+    defaultTheme: 'retro',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
