@@ -20,7 +20,7 @@ const CONFIG = {
           description:
             'Lead Developer in a agile(scrum) development team to create a large scale test automation framework. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
           imageUrl:
-            'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
+            'https://media.istockphoto.com/id/1175741245/photo/fighter-jet.jpg?s=612x612&w=0&k=20&c=2KhvZu7az1Q5B26uUevSWGkskwoRYraiiMZdusL7SUc=',
           //link: 'NDA Signed.',
         },
          {
