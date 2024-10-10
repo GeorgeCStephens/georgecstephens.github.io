@@ -26,7 +26,7 @@ const CONFIG = {
          {
           title: 'Aerospace & Defence Automation',
           description:
-            'Test Description.',
+            'Worked in an agile development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.',
           imageUrl:
             'https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg',
           //link: 'NDA Signed.',
