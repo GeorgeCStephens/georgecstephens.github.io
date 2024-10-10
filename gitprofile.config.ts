@@ -95,7 +95,7 @@ const CONFIG = {
     },
     {
       company: 'IBM',
-      position: 'Test Automation Engineer',
+      position: 'Test Automation Developer',
       from: 'July 2022',
       to: 'February 2023',
       companyLink: 'https://ibm.com',
