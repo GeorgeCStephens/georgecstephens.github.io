@@ -12,11 +12,11 @@ const CONFIG = {
   base: '/',
   projects: {
     external: {
-      header: 'Professional Experience',
+      header: 'Industry Experience',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Aerospace & Defence Automation',
+          title: 'Aerospace & Defence',
           description:
             'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
           imageUrl:
@@ -24,7 +24,7 @@ const CONFIG = {
           //link: 'NDA Signed.',
         },
          {
-          title: 'Aerospace & Defence Automation',
+          title: 'Aerospace & Defence',
           description:
             'Worked in an agile development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.',
           imageUrl:
