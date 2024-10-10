@@ -18,7 +18,7 @@ const CONFIG = {
         {
           title: 'Aerospace & Defence',
           description:
-            'Lead Developer for a large scale A&D test automation solution. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
+            'Lead Developer in a agile(scrum) development team to create a large scale test automation framework. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
           //link: 'NDA Signed.',
@@ -26,11 +26,20 @@ const CONFIG = {
          {
           title: 'Aerospace & Defence',
           description:
-            'Worked in an agile development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.',
+            'Worked in an agile(xp) development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.',
           imageUrl:
             'https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg',
           //link: 'NDA Signed.',
+        },
+        {
+          title: 'Aerospace & Defence',
+          description:
+            'Worked in a small waterfall development team to deliver an automated user access rights tool to high profile A&D industry client. Saving an estimated £50,000 per annum for client',
+          imageUrl:
+            'https://images.pexels.com/photos/919580/pexels-photo-919580.jpeg?cs=srgb&dl=pexels-messalaciulla-919580.jpg&fm=jpg',
+          //link: 'NDA Signed.',
         }
+
 
       ],
 
