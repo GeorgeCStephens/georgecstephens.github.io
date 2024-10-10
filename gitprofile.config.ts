@@ -28,7 +28,7 @@ const CONFIG = {
           description:
             'Test Description.',
           imageUrl:
-            'https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZsNTA2NjIyNzY1NjctaW1hZ2Uta3oyZTBnZWMuanBn.jpg',
+            'https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg',
           //link: 'NDA Signed.',
         }
 
