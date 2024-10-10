@@ -22,8 +22,18 @@ const CONFIG = {
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/3/3d/Tunisia_International_Aerospace_and_Defense_Exhibition_2020-1.jpg',
           //link: 'NDA Signed.',
+        },
+         {
+          title: 'Aerospace & Defence Automation',
+          description:
+            'Test Description.',
+          imageUrl:
+            'https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZsNTA2NjIyNzY1NjctaW1hZ2Uta3oyZTBnZWMuanBn.jpg',
+          //link: 'NDA Signed.',
         }
+
       ],
+
     },
     github: {
       display: true, // Display GitHub projects?
