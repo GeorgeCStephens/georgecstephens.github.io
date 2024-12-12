@@ -110,6 +110,12 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'AWS Certified Cloud Practioner',
+      body: 'Amazon Web Services',
+      year: '2024',
+      //link: '',
+    },
+    {
       name: 'Software Test Apprentice Of The Year Highly Commended Award',
       body: 'British Computer Society',
       year: '2024',
