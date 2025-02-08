@@ -18,10 +18,15 @@ const CONFIG = {
         {
           title: 'Aerospace & Defence',
           description:
-            'Lead Developer in a agile(scrum) development team to create a large scale test automation framework. Automated Smoke Test and Regresion pack resulted in over £500,000 saved per annum for client.',
+            'Lead Developer in an agile (scrum) development team to create a large-scale test automation framework. Key achievements include:\n' +
+            '- Developed and automated Smoke Test and Regression packs, resulting in annual savings of over £500,000 for the client.\n' +
+            '- Mentored and trained 3 team members from no test automation knowledge to becoming self-sufficient developers.\n' +
+            '- Enhanced the workflow of a 10-member team by implementing Git for version control.\n' +
+            '- Delivered successful technical demonstrations to partners and project leads, showcasing project progress and capabilities.\n' +
+            '- Directed a comprehensive refactor of over 47,000 lines of code, significantly improving code quality and maintainability.\n' +
+            '- Implemented cloud-based automated regression testing, resulting in earlier defect detection and additional cost savings.',
           imageUrl:
             'https://media.istockphoto.com/id/1175741245/photo/fighter-jet.jpg?s=612x612&w=0&k=20&c=2KhvZu7az1Q5B26uUevSWGkskwoRYraiiMZdusL7SUc=',
-          //link: 'NDA Signed.',
         },
          {
           title: 'Aerospace & Defence',
