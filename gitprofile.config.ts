@@ -18,20 +18,20 @@ const CONFIG = {
         {
           title: 'Aerospace & Defence',
           description:
-        'Lead Developer in an agile (scrum) development team to create a large-scale test automation framework. Key achievements include:<br>' +
-        '- Developed and automated Smoke Test and Regression packs, resulting in annual savings of over £500,000 for the client.<br>' +
-        '- Mentored and trained 3 team members from no test automation knowledge to becoming self-sufficient developers.<br>' +
-        '- Enhanced the workflow of a 10-member team by implementing Git for version control.<br>' +
-        '- Delivered successful technical demonstrations to partners and project leads, showcasing project progress and capabilities.<br>' +
-        '- Directed a comprehensive refactor of over 47,000 lines of code, significantly improving code quality and maintainability.<br>' +
-        '- Implemented cloud-based automated regression testing, resulting in earlier defect detection and additional cost savings.',
+        `Lead Developer in an agile (scrum) development team to create a large-scale test automation framework. Key achievements include:
+        - Developed and automated Smoke Test and Regression packs, resulting in annual savings of over £500,000 for the client.
+        - Mentored and trained 3 team members from no test automation knowledge to becoming self-sufficient developers.
+        - Enhanced the workflow of a 10-member team by implementing Git for version control.
+        - Delivered successful technical demonstrations to partners and project leads, showcasing project progress and capabilities.
+        - Directed a comprehensive refactor of over 47,000 lines of code, significantly improving code quality and maintainability.
+        - Implemented cloud-based automated regression testing, resulting in earlier defect detection and additional cost savings.`,
           imageUrl:
         'https://media.istockphoto.com/id/1175741245/photo/fighter-jet.jpg?s=612x612&w=0&k=20&c=2KhvZu7az1Q5B26uUevSWGkskwoRYraiiMZdusL7SUc=',
         },
          {
           title: 'Aerospace & Defence',
           description:
-        'Worked in an agile(xp) development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.',
+        `Worked in an agile(xp) development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.`,
           imageUrl:
         'https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg',
           //link: 'NDA Signed.',
