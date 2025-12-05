@@ -25,14 +25,14 @@ const CONFIG = {
         {
           title: 'Aerospace & Defence',
           description:
-        'Lead Developer in an agile (scrum) development team to create a large-scale test automation framework, saving over £500,000 per annum and mentoring 3 team members.',
+        'Lead developer in an agile (scrum) development team to create a large-scale test automation framework, saving over £500,000 per annum and mentoring 3 team members.',
 	  imageUrl:
         'https://media.istockphoto.com/id/1175741245/photo/fighter-jet.jpg?s=612x612&w=0&k=20&c=2KhvZu7az1Q5B26uUevSWGkskwoRYraiiMZdusL7SUc=',
         },
          {
           title: 'Aerospace & Defence',
           description:
-        `Worked in an agile(xp) development team to deliver an automated solution to a large scale complex data migration/ingestion tool. Saving an estimated £150,000 per annum for client.`,
+        `Worked in an agile (xp) development team to deliver an automated solution to a large scale complex data migration/ingestion tool, saving approx £150,000 per annum for client.`,
           imageUrl:
         'https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg',
           //link: 'NDA Signed.',
@@ -40,7 +40,7 @@ const CONFIG = {
         {
           title: 'Aerospace & Defence',
           description:
-            'Worked in a small waterfall development team to deliver an automated user access rights tool to high profile A&D industry client. Saving an estimated £50,000 per annum for client',
+            'Worked in a small waterfall development team to deliver an automated user access rights tool to high profile A&D industry client, saving approx £50,000 per annum for client',
           imageUrl:
             'https://images.pexels.com/photos/919580/pexels-photo-919580.jpeg?cs=srgb&dl=pexels-messalaciulla-919580.jpg&fm=jpg',
           //link: 'NDA Signed.',
