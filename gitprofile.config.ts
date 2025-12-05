@@ -97,16 +97,9 @@ const CONFIG = {
   experiences: [
     {
       company: 'IBM',
-      position: 'Test Automation Lead',
-      from: 'February 2023',
-      to: 'Present',
-      companyLink: 'https://ibm.com',
-    },
-    {
-      company: 'IBM',
       position: 'Test Automation Developer',
       from: 'July 2022',
-      to: 'February 2023',
+      to: 'Present',
       companyLink: 'https://ibm.com',
     },
     {
@@ -198,7 +191,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'retro',
+    defaultTheme: 'corporate',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -209,7 +202,7 @@ const CONFIG = {
     respectPrefersColorScheme: false,
 
     // Display the ring in Profile picture
-    displayAvatarRing: true,
+    displayAvatarRing: false,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
