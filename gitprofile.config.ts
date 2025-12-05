@@ -16,16 +16,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Public Sector',
+          description:
+        'Worked in an agile team to develop a multi-device test automation solution for client, whilst simultaneously leading development of test doubles used to stub missing components of SUT.',
+	  imageUrl:
+        'https://editorial.networkingplus.co.uk/Uploads/Images/6655/bigstock-british-ambulance-responding-t-185328385.jpg?lu=300',
+        },
+        {
           title: 'Aerospace & Defence',
           description:
-        `Lead Developer in an agile (scrum) development team to create a large-scale test automation framework. Key achievements include:
-        - Developed and automated Smoke Test and Regression packs, resulting in annual savings of over £500,000 for the client.
-        - Mentored and trained 3 team members from no test automation knowledge to becoming self-sufficient developers.
-        - Enhanced the workflow of a 10-member team by implementing Git for version control.
-        - Delivered successful technical demonstrations to partners and project leads, showcasing project progress and capabilities.
-        - Directed a comprehensive refactor of over 47,000 lines of code, significantly improving code quality and maintainability.
-        - Implemented cloud-based automated regression testing, resulting in earlier defect detection and additional cost savings.`,
-          imageUrl:
+        'Lead Developer in an agile (scrum) development team to create a large-scale test automation framework, saving over £500,000 per annum and mentoring 3 team members.',
+	  imageUrl:
         'https://media.istockphoto.com/id/1175741245/photo/fighter-jet.jpg?s=612x612&w=0&k=20&c=2KhvZu7az1Q5B26uUevSWGkskwoRYraiiMZdusL7SUc=',
         },
          {
